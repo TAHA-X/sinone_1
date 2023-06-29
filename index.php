@@ -223,12 +223,12 @@
         }
         else{
             ?>
-            <!-- <form method="post">
+            <form method="post">
                 <button name="fill" type="submit">fill documents</button>
             </form>
             <form method="post">
                 <button name="fillPages" type="submit">fill pages</button>
-            </form> -->
+            </form>
                 <div class="mb-3 d-flex gap-2">
                         <a class="btn btn-primary" href="pages/documents/add.php">ajouter document</a>
                         <button id="trier" class="btn btn-outline-dark">trier</button>
